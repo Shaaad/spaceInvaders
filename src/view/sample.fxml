@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane alignment="center" hgap="10" prefHeight="350.0" prefWidth="300.0" vgap="10" xmlns="http://javafx.com/javafx/8.0.92" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <Pane fx:id="gamePane" onKeyPressed="#handleKeyPressed" prefHeight="300.0" prefWidth="300.0" style="-fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid;" GridPane.rowIndex="2">
+         <GridPane.margin>
+            <Insets />
+         </GridPane.margin>
+         <children>
+            <Button layoutX="-50.0" layoutY="-50.0" mnemonicParsing="false" prefHeight="0.0" prefWidth="0.0" text="Button" />
+         </children>
+      </Pane>
+      <Label contentDisplay="TOP" text="Your time, sec:" GridPane.rowIndex="1">
+         <GridPane.margin>
+            <Insets left="10.0" />
+         </GridPane.margin></Label>
+      <TextField fx:id="timeId" alignment="CENTER_RIGHT" disable="true" editable="false" prefWidth="50.0" GridPane.rowIndex="1">
+         <GridPane.margin>
+            <Insets left="100.0" right="20.0" />
+         </GridPane.margin>
+      </TextField>
+   </children>
+</GridPane>
