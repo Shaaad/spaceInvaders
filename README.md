@@ -6,8 +6,10 @@
 •	 библиотека JavaFX.
 <h2>Статус</h2>
 •	 Alpha 1.01
-<h2>Скриншот геймплея игры</h2>![Геймплей](https://user-images.githubusercontent.com/80215567/117365662-4b99e080-aec8-11eb-858f-89cf41b5840f.jpg)
-<h2>Зависимости</h2>![зависимости](https://user-images.githubusercontent.com/80215567/117366173-09bd6a00-aec9-11eb-9594-4d41ccc1e4a1.jpg)
+<h2>Скриншот геймплея игры</h2>
+https://sun9-74.userapi.com/impg/amwgve3eWwLPed5JSkFrAOPDVGO_LA7kshAnwQ/C-uh_Th-Hrc.jpg?size=299x388&quality=96&sign=13d109a091f9566e1eea433ac0620152&type=album
+<h2>Зависимости</h2>
+https://sun9-6.userapi.com/impg/VdLmwQ7I3bp0eOrO5sRz7mit8Y72JsYRUiVerA/NpyMSylL6ZE.jpg?size=827x774&quality=96&sign=701a46e493af150b14b1a69c7f9c13de&type=album
 <h2> Конфигурация</h2>
 Для работы требуется библиотека JavaFX.
 <h2>Использование</h2>
