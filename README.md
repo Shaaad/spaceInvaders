@@ -14,7 +14,7 @@
 
 **Скриншот правил игры**: 
 
-![](https://sun9-64.userapi.com/impg/6Cu3JRC04L3yo7dTrlDkjbslXHd9sWS_uFDYbQ/qQv0wQyw6AU.jpg?size=355x257&quality=96&sign=a66fff9ddfcaf04f7b6289c83d773143&type=album)
+https://github.com/Shaaad/spaceInvaders/blob/main/Геймплей.jpg?raw=true
 
 **Скриншот геймлея игры**
 
