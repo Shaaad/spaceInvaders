@@ -7,9 +7,9 @@
 <h2>Статус</h2>
 •	 Alpha 1.01
 <h2>Скриншот геймплея игры</h2>
-https://sun9-74.userapi.com/impg/amwgve3eWwLPed5JSkFrAOPDVGO_LA7kshAnwQ/C-uh_Th-Hrc.jpg?size=299x388&quality=96&sign=13d109a091f9566e1eea433ac0620152&type=album
+![alt text](https://github.com/[Shaaad]/[paceInvaders]/blob/[main]/Геймплей.jpg?raw=true)
 <h2>Зависимости</h2>
-https://sun9-6.userapi.com/impg/VdLmwQ7I3bp0eOrO5sRz7mit8Y72JsYRUiVerA/NpyMSylL6ZE.jpg?size=827x774&quality=96&sign=701a46e493af150b14b1a69c7f9c13de&type=album
+![alt text](https://github.com/[Shaaad]/[paceInvaders]/blob/[main]/зависимости.jpg?raw=true)
 <h2> Конфигурация</h2>
 Для работы требуется библиотека JavaFX.
 <h2>Использование</h2>
