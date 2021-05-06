@@ -9,7 +9,7 @@
 <h2>Скриншот геймплея игры</h2>
 https://github.com/Shaaad/spaceInvaders/blob/main/Геймплей.jpg?raw=true
 <h2>Зависимости</h2>
-![alt text](https://github.com/[Shaaad]/[paceInvaders]/blob/[main]/зависимости.jpg?raw=true)
+![alt text](https://github.com/Shaaad/spaceInvaders/blob/main/зависимости.jpg?raw=true)
 <h2> Конфигурация</h2>
 Для работы требуется библиотека JavaFX.
 <h2>Использование</h2>
