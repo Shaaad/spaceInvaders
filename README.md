@@ -7,7 +7,7 @@
 <h2>Статус</h2>
 •	 Alpha 1.01
 <h2>Скриншот геймплея игры</h2>
-![](https://github.com/Shaaad/spaceInvaders/raw/main/Геймплей.jpg)
+https://github.com/Shaaad/spaceInvaders/blob/main/Геймплей.jpg?raw=true
 <h2>Зависимости</h2>
 ![alt text](https://github.com/[Shaaad]/[paceInvaders]/blob/[main]/зависимости.jpg?raw=true)
 <h2> Конфигурация</h2>
